@@ -1,2 +1,2 @@
-# wp-headless-plugin-boilerplate
-A boilerplate for a plugin, making WordPress headless. ;)
+# wp-plugin-boilerplate
+A boilerplate plugin for WordPress. ;)
